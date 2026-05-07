@@ -42,11 +42,15 @@ public class ApplicationHooks {
 		driver.quit();
 	}
 	
+	@After(order=1)
 	public void tearDown(Scenario scenario) {
+		if(scenario.isFailed()) {
+			//Take screenshot
 		String ssName = scenario.getName().replaceAll(" ", "_");
 		byte[] sourcePath = ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
 		scenario.attach(sourcePath, "image/png", ssName);
 		
+	}
 	}
 	
 

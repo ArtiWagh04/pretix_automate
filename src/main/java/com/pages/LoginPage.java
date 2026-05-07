@@ -9,7 +9,7 @@ public class LoginPage {
 	
 	// 1. By locators
 	private By emailId  = By.xpath("//input[@type=\"email\"]");
-	private By password = By.xpath("//input[@type='password']");
+	private By password = By.xpath("//input[@type='password']11");
 	private By loginBtn = By.xpath("//button[@type=\"submit\"]");
 	private By lostPass = By.linkText("Lost password?");
 	
