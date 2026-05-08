@@ -1,119 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-07T22:54:34 IST" name="Default suite" finished-at="2026-05-07T22:55:22 IST" duration-ms="48567">
+  <suite started-at="2026-05-09T00:32:09 IST" name="Default suite" finished-at="2026-05-09T00:32:36 IST" duration-ms="26809">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.TestRunner@7dc0f706]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2026-05-07T22:54:34 IST" name="Default test" finished-at="2026-05-07T22:55:22 IST" duration-ms="48567">
+    <test started-at="2026-05-09T00:32:09 IST" name="Default test" finished-at="2026-05-09T00:32:36 IST" duration-ms="26809">
       <class name="testRunners.TestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-07T22:54:34 IST" name="setUpClass" finished-at="2026-05-07T22:54:39 IST" duration-ms="5658" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-09T00:32:09 IST" name="setUpClass" finished-at="2026-05-09T00:32:12 IST" duration-ms="2090" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@261db982]]>
+                <![CDATA[org.testng.TestRunner@5a8c93]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-07T22:54:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-05-07T22:55:01 IST" duration-ms="21790" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-09T00:32:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-05-09T00:32:25 IST" duration-ms="13383" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[""]]>
+                <![CDATA["check create a new event option"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["login page feature"]]>
+                <![CDATA["Home page feature"]]>
               </value>
             </param>
           </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-07T22:55:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-05-07T22:55:09 IST" duration-ms="7601" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[""]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["login page feature"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-07T22:55:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-05-07T22:55:20 IST" duration-ms="10613" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["login with correct credentials"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["login page feature"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.InvalidSelectorException">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[invalid selector: Unable to locate an element with the xpath expression //input[@type='password']11 because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@type='password']11' is not a valid XPath expression.
-  (Session info: chrome=147.0.7727.138)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
-Build info: version: '4.34.0', revision: '707dcb4246*'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [19692a0fb15114bac6380f0ab1de14d3, findElement {using=xpath, value=//input[@type='password']11}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.138, chrome: {chromedriverVersion: 147.0.7727.117 (474cc805edd..., userDataDir: C:\Users\Wagh\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57163}, goog:processID: 19904, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57163/devtoo..., se:cdpVersion: 147.0.7727.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 19692a0fb15114bac6380f0ab1de14d3]]>
+              <![CDATA[expected [Create a new event] but found []]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //input[@type='password']11 because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@type='password']11' is not a valid XPath expression.
-  (Session info: chrome=147.0.7727.138)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
-Build info: version: '4.34.0', revision: '707dcb4246*'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [19692a0fb15114bac6380f0ab1de14d3, findElement {using=xpath, value=//input[@type='password']11}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.138, chrome: {chromedriverVersion: 147.0.7727.117 (474cc805edd..., userDataDir: C:\Users\Wagh\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57163}, goog:processID: 19904, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57163/devtoo..., se:cdpVersion: 147.0.7727.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 19692a0fb15114bac6380f0ab1de14d3
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
-at com.pages.LoginPage.enterPass(LoginPage.java:34)
-at stepDefinitions.LoginPageSteps.user_enters_password(LoginPageSteps.java:55)
-at ✽.user enters password "Artipretix@2026"(file:///C:/projects/OpencartV1.1.2/pretix_v1/src/test/resources/com/AppFeatures/loginPage.feature:15)
+              <![CDATA[java.lang.AssertionError: expected [Create a new event] but found []
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at stepDefinitions.HomePageSteps.option_title_should_be(HomePageSteps.java:48)
+at ✽.option title should be "Create a new event"(file:///C:/projects/OpencartV1.1.2/pretix_v1/src/test/resources/com/AppFeatures/HomePage.feature:10)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-07T22:55:20 IST" name="tearDownClass" finished-at="2026-05-07T22:55:22 IST" duration-ms="2621" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-09T00:32:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-05-09T00:32:34 IST" duration-ms="8673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check menu options"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Home page feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunners.TestRunner@7dc0f706]" started-at="2026-05-09T00:32:34 IST" name="tearDownClass" finished-at="2026-05-09T00:32:36 IST" duration-ms="2509" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

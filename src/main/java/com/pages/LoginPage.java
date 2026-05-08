@@ -9,7 +9,7 @@ public class LoginPage {
 	
 	// 1. By locators
 	private By emailId  = By.xpath("//input[@type=\"email\"]");
-	private By password = By.xpath("//input[@type='password']11");
+	private By password = By.xpath("//input[@type='password']");
 	private By loginBtn = By.xpath("//button[@type=\"submit\"]");
 	private By lostPass = By.linkText("Lost password?");
 	
@@ -39,5 +39,20 @@ public class LoginPage {
 		driver.findElement(loginBtn).click();
 		
 	}
+	
+	public HomePage doLogin(String un, String pass) {
+		
+		driver.findElement(emailId).sendKeys(un);
+
+		
+		driver.findElement(password).sendKeys(pass);
+
+		driver.findElement(loginBtn).click();
+		
+		return new HomePage(driver);
+		
+	}
+	
+	
 	
 }
