@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate" value="3F8aF6Xsci55i6dswHKme62nXnJ" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="45" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/pages/EventManagementPage.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3123410380480764" />
+      <entry key="MS500" value="2.312164532978829" />
+      <entry key="S2" value="6.198102043308021" />
+      <entry key="S5" value="12.031230072773333" />
+      <entry key="S10" value="17.27333996059351" />
+      <entry key="S30" value="26.952157113734057" />
+      <entry key="S60" value="38.1210091420181" />
+      <entry key="M2" value="54.047166373422" />
+      <entry key="M5" value="79.68814906986945" />
+      <entry key="M10" value="106.43041733555893" />
+      <entry key="M15" value="124.26085528944544" />
+      <entry key="M30" value="155.73285174768696" />
+      <entry key="H1" value="196.25789413319362" />
+      <entry key="H2" value="271.8472198455191" />
+      <entry key="H4" value="370.5432564832844" />
+      <entry key="D1" value="532.25424837157" />
+      <entry key="W1" value="571.9443696797257" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.8285618364248E-310" />
+      <entry key="S5" value="1.2730453080032237E-124" />
+      <entry key="S10" value="1.1282930949018611E-62" />
+      <entry key="S30" value="2.2428865680854673E-21" />
+      <entry key="S60" value="4.7359123388059625E-11" />
+      <entry key="M2" value="6.881796523296779E-6" />
+      <entry key="M5" value="0.008611538172066729" />
+      <entry key="M10" value="0.09279840912591891" />
+      <entry key="M15" value="0.2049886011645125" />
+      <entry key="M30" value="0.46098594818182753" />
+      <entry key="H1" value="0.8544348425345757" />
+      <entry key="H2" value="1.6724449092325335" />
+      <entry key="H4" value="2.751910868351936" />
+      <entry key="D1" value="4.5000072846484676" />
+      <entry key="W1" value="4.924682229143981" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2056165364397595" />
+      <entry key="MS500" value="2.2730889684122877" />
+      <entry key="S2" value="6.17052462175698" />
+      <entry key="S5" value="11.992669044150073" />
+      <entry key="S10" value="17.231679237558794" />
+      <entry key="S30" value="26.914471784606906" />
+      <entry key="S60" value="38.0885718647825" />
+      <entry key="M2" value="54.023435818179045" />
+      <entry key="M5" value="79.68381349297496" />
+      <entry key="M10" value="106.51527887982958" />
+      <entry key="M15" value="124.45983055558754" />
+      <entry key="M30" value="156.19006457053482" />
+      <entry key="H1" value="197.10984763692232" />
+      <entry key="H2" value="273.5178459144584" />
+      <entry key="H4" value="373.2938798341196" />
+      <entry key="D1" value="536.7539354956667" />
+      <entry key="W1" value="576.8690023651537" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3F8aF6Xsci55i6dswHKme62nXnJ" />
+  <component name="ProjectSessionTemplates">
+    <option name="inlineTemplate">
+      <template>
+        <option name="modeId" value="InlineAgent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: HomePage.executor": "Run",
+    "Maven.pretix_v1 [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.TestRunner.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "feature",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="" />
+      <created>1781459045839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781459045839</updated>
+      <workItem from="1781459062209" duration="109000" />
+      <workItem from="1781459188294" duration="2418000" />
+      <workItem from="1782788972020" duration="99000" />
+      <workItem from="1782789098194" duration="376000" />
+      <workItem from="1782789505400" duration="10809000" />
+      <workItem from="1782968118262" duration="2342000" />
+      <workItem from="1783391526420" duration="3000" />
+      <workItem from="1784092012009" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
