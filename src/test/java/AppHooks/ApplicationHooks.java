@@ -37,12 +37,12 @@ public class ApplicationHooks {
 		
 	}
 	
-	@After(order=0)
+	@After(order=1)
 	public void quiteBrowser() {
 		driver.quit();
 	}
 	
-	@After(order=1)
+	@After(order=0)
 	public void tearDown(Scenario scenario) {
 		if(scenario.isFailed()) {
 			//Take screenshot

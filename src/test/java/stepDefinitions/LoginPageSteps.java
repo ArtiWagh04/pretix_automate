@@ -20,7 +20,13 @@ public void user_is_on_login_page() {
     // Write code here that turns the phrase above into concrete actions
 	
 	DriverFactory.getDriver().get("https://pretix.eu/control/login");
-	
+
+	Assert.assertEquals(
+			DriverFactory.getDriver().getCurrentUrl(),
+			"https://pretix.eu/control/login",
+			"Incorrect URL loaded.");
+
+
 }
 
 @When("user gets the title of the page")

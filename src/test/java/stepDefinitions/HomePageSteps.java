@@ -26,8 +26,17 @@ public void user_is_already_logged_in_to_application(DataTable credTable) {
 	
 	List<Map<String, String>> credList = credTable.asMaps();
 	String uname = credList.get(0).get("username");
+
 	String pass = credList.get(0).get("password");
-	DriverFactory.getDriver().get("https://pretix.eu/control/login");
+	DriverFactory.getDriver().get("https://google.eu/control/login");
+
+
+	Assert.assertEquals(
+			DriverFactory.getDriver().getCurrentUrl(),
+			"https://pretix.eu/control/login",
+			"Incorrect URL loaded.");
+
+
 	hPage = lp.doLogin(uname, pass);
 	
   
