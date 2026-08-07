@@ -8,62 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/0622705f-38eb-4917-87ab-b47193291eff-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/095eb32b-9396-42fd-9a02-9e7557491d4e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0f0c1cee-274d-4abc-872a-0b0e67da223b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/18dd0ed2-8f92-4e7a-80a6-f1f933083da0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1e8e91cb-13fa-479e-b4cc-e2760a292c6c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2435dfed-91c0-4f62-af79-3039c286b796-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2471582c-f041-4228-844f-f8cf66316a93-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/25993880-dec0-4bee-baf3-9adc7d36a681-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/26f15e9b-7296-4aa7-87d5-5b6747513b55-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3300b115-5dac-4b5b-9ece-35c633a6c28b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/44328bee-0a82-4d01-be93-fca9d6400ef1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4ab5431a-d91e-4187-9447-3e7d00e42a31-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/52da3747-010b-42c0-9e9d-2a0a93355f5e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5615a345-33e3-432f-b7cd-f655a8f24a3a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5629c72b-d980-46ab-b24e-afb9b3bd49c3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5869bed5-6c83-4f21-b35f-4a769329a53b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5b4dd005-0229-41aa-9155-896e9ce9eacc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/69e5e2af-4f56-482e-a6e1-4e0d1a150e56-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6e52d25d-7d68-4486-bce1-e33cdb4170fd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6ecc8190-960b-43f6-9510-6be0b77268f1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6ff3ebbb-0e40-4fc4-a1bb-6bef0ed76cb8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/71f6c7ff-d988-4824-baac-dbf11e6ae0a7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/733c9421-1987-4d00-812b-f477421d2325-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/74236eb4-91cf-4f27-8b86-aa35abec6d66-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7c15481c-f4de-4897-b6db-d7f1a5de2dbe-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7e62888d-ad27-4129-a8a2-5d01c5af34cf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8157ddfb-2f68-4828-92e2-37da780163bb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/824c03cf-3435-4367-aef8-af33d960467c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8251d1ef-7629-424f-866f-06e580f4506f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8f893808-415e-4dac-9e3b-cc100aa851f5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/960d32a9-5ec0-4ca9-8073-f916deab5361-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a72e0ac8-16f9-4dcd-8bbe-41099d82aaaf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b170d28c-2bf0-4c57-9dda-4ac431cf3dea-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bbc96d0f-a86f-437b-aafc-564cd6d6bdeb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c3c3f2f2-51c0-4275-8d73-9783ac02ab4b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c44b05a9-dd71-4eb8-93d2-73b7f7789089-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c7f44655-079c-4a4e-a90b-0c3efd60b4fc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c85f4167-aaf0-445e-ab47-c94938da9ec0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ced97984-cbf2-471d-b841-c59b503e700c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dcbf1df9-3d1c-48ca-b44d-9f427044be72-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e31762cf-7064-43f1-9163-1b59d16ddd04-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e44cbc84-3843-42a0-8de9-2737334188b7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ea1a959d-1816-46fe-8fca-fc43b100505c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/eae91c6c-fc05-45e5-8453-a69d6d9b6443-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ebcde973-415d-46a4-9f45-c1cfc06aa081-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ec947eda-ff0f-4b51-84a9-4c8ab2ca72b4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f5189588-9406-4084-b1a4-e4fa462fa06c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f8bfcd08-3780-4037-b437-57d0eecf72ac-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f949d516-63cd-45f5-8328-c35343758723-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fd025834-5374-4563-a4ae-0b89e2ba3171-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fdf66366-139a-484a-a38c-396487ee684e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testRunners/Rerun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testRunners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +27,14 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="63" />
+    <option name="cachedIndexableFilesCount" value="114" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,23 +59,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0048095294047026" />
-      <entry key="MS500" value="1.4140589250705589" />
-      <entry key="S2" value="3.756081569345943" />
-      <entry key="S5" value="6.419731425637743" />
-      <entry key="S10" value="7.948762065462947" />
-      <entry key="S30" value="9.24770626398444" />
-      <entry key="S60" value="9.614526390041638" />
-      <entry key="M2" value="9.804875038478366" />
-      <entry key="M5" value="9.998107234020218" />
-      <entry key="M10" value="11.91838292855791" />
-      <entry key="M15" value="15.74034479337732" />
-      <entry key="M30" value="27.535277415552777" />
-      <entry key="H1" value="52.34496506418554" />
-      <entry key="H2" value="125.46696941189461" />
-      <entry key="H4" value="267.51374130573413" />
-      <entry key="D1" value="614.862584912322" />
-      <entry key="W1" value="722.040401247697" />
+      <entry key="MS100" value="1.3665944020090872" />
+      <entry key="MS500" value="4.161060171110214" />
+      <entry key="S2" value="8.287323732154878" />
+      <entry key="S5" value="10.235145931637229" />
+      <entry key="S10" value="11.0614188767541" />
+      <entry key="S30" value="11.673609649289247" />
+      <entry key="S60" value="11.835043031333186" />
+      <entry key="M2" value="11.917075583323273" />
+      <entry key="M5" value="11.966727577789932" />
+      <entry key="M10" value="11.988401910948912" />
+      <entry key="M15" value="12.042485966791423" />
+      <entry key="M30" value="13.157671281490414" />
+      <entry key="H1" value="24.422725017550835" />
+      <entry key="H2" value="74.55710557976045" />
+      <entry key="H4" value="204.4467701434" />
+      <entry key="D1" value="655.6886787295822" />
+      <entry key="W1" value="825.0962996172158" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -125,37 +83,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="4.565698700544564E-165" />
-      <entry key="S60" value="6.756995412567984E-83" />
-      <entry key="M2" value="8.22009830604822E-42" />
-      <entry key="M5" value="3.691604388648751E-17" />
-      <entry key="M10" value="6.394621254761103E-9" />
-      <entry key="M15" value="3.801732558615582E-6" />
-      <entry key="M30" value="0.002525784674291607" />
-      <entry key="H1" value="0.0760477928723428" />
-      <entry key="H2" value="0.5370272858251808" />
-      <entry key="H4" value="1.677687686044841" />
-      <entry key="D1" value="4.80800446188654" />
-      <entry key="W1" value="5.811916095128984" />
+      <entry key="S30" value="4.08529666028156E-304" />
+      <entry key="S60" value="2.0212116812158195E-152" />
+      <entry key="M2" value="1.4216938970374654E-76" />
+      <entry key="M5" value="4.59607163134794E-31" />
+      <entry key="M10" value="7.135109531976639E-16" />
+      <entry key="M15" value="8.81127536705344E-11" />
+      <entry key="M30" value="1.2159757937845246E-5" />
+      <entry key="H1" value="0.005276560438892876" />
+      <entry key="H2" value="0.1414583225487884" />
+      <entry key="H4" value="0.8610476635550086" />
+      <entry key="D1" value="4.30213672023272" />
+      <entry key="W1" value="5.720343383362649" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.1065976139168941" />
-      <entry key="MS500" value="0.8202860246397105" />
-      <entry key="S2" value="3.444680028472562" />
-      <entry key="S5" value="6.262946553117311" />
-      <entry key="S10" value="7.863068489308438" />
-      <entry key="S30" value="9.217265282984057" />
-      <entry key="S60" value="9.599052926408076" />
-      <entry key="M2" value="9.797073570236792" />
-      <entry key="M5" value="9.994952587178744" />
-      <entry key="M10" value="11.91658351883224" />
-      <entry key="M15" value="15.738855159326196" />
-      <entry key="M30" value="27.536581355216164" />
-      <entry key="H1" value="52.419611689055095" />
-      <entry key="H2" value="126.00195199888577" />
-      <entry key="H4" value="269.18926404002895" />
-      <entry key="D1" value="619.6698331193953" />
-      <entry key="W1" value="727.8521932099059" />
+      <entry key="MS100" value="1.2562527143469373" />
+      <entry key="MS500" value="4.083244983348953" />
+      <entry key="S2" value="8.244618169913878" />
+      <entry key="S5" value="10.213770617185114" />
+      <entry key="S10" value="11.04982709287457" />
+      <entry key="S30" value="11.669523068754009" />
+      <entry key="S60" value="11.832970424811153" />
+      <entry key="M2" value="11.916031834543142" />
+      <entry key="M5" value="11.966308267933982" />
+      <entry key="M10" value="11.988187840169966" />
+      <entry key="M15" value="12.042317960080569" />
+      <entry key="M30" value="13.157441090514075" />
+      <entry key="H1" value="24.427500565484852" />
+      <entry key="H2" value="74.6975685904814" />
+      <entry key="H4" value="205.30634687712197" />
+      <entry key="D1" value="659.9900492904441" />
+      <entry key="W1" value="830.816507109353" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -197,38 +155,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: HomePage.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.pretix_v1 [test].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: HomePage.executor": "Run",
+    "Maven.pretix_v1 [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.Rerun.executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "feature",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

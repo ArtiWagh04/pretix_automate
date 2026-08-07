@@ -6,6 +6,7 @@
 
         <classes>
             <class name="testRunners.TestRunner"/>
+            <class name ="testRunners.Rerun"/>
             <!--<methods>
                 <include name="validLogin"/>
                 <exclude name="invalidLogin"/>

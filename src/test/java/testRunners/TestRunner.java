@@ -7,7 +7,10 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(	
 	    features = "src/test/resources/com/AppFeatures",
 	    glue = {"stepDefinitions", "AppHooks"},
-	    plugin = {"pretty"}
+		plugin = {
+				"pretty",
+				"rerun:target/rerun.txt"
+		}
 	)
 	public class TestRunner extends AbstractTestNGCucumberTests {
 	}
