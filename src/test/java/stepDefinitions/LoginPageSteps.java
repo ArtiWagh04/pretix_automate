@@ -1,5 +1,7 @@
 package stepDefinitions;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 
 import com.pages.LoginPage;
@@ -11,16 +13,28 @@ import io.cucumber.java.en.When;
 
 public class LoginPageSteps{
 
-	static String title;
+    private static final Logger log =
+            LoggerFactory.getLogger(LoginPageSteps.class);
+
+
+    static String title;
 	
 	private LoginPage lPage = new LoginPage(DriverFactory.getDriver());
 	
 @Given("user is on login page")
 public void user_is_on_login_page() {
+    log.info("User is on login page");
+
     // Write code here that turns the phrase above into concrete actions
 	
 	DriverFactory.getDriver().get("https://pretix.eu/control/login");
-	
+
+	Assert.assertEquals(
+			DriverFactory.getDriver().getCurrentUrl(),
+			"https://pretix.eu/control/login",
+			"Incorrect URL loaded.");
+
+
 }
 
 @When("user gets the title of the page")
