@@ -1,17 +1,17 @@
 package testRunners;
 
+import io.cucumber.core.cli.Main;
 
-import io.cucumber.testng.AbstractTestNGCucumberTests;
-import io.cucumber.testng.CucumberOptions;
+public class TestRunner {
 
-@CucumberOptions(	
-	    features = "src/test/resources/com/AppFeatures",
-	    glue = {"stepDefinitions", "AppHooks"},
-		plugin = {
-				"pretty",
-				"rerun:target/rerun.txt"
-		}
-	)
-	public class TestRunner extends AbstractTestNGCucumberTests {
+	public static void main(String[] args) {
+
+		Main.main(new String[]{
+				"--glue", "stepDefinitions",
+				"--glue", "AppHooks",
+				"src/test/resources/com/AppFeatures",
+				"--plugin", "pretty",
+				"--plugin", "rerun:target/rerun.txt"
+		});
 	}
-
+}

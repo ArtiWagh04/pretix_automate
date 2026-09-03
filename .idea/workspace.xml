@@ -7,7 +7,19 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit" />
+    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunners/Rerun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunners/Rerun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +31,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="114" />
+    <option name="cachedIndexableFilesCount" value="262" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,7 +54,7 @@
     </option>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="17" />
+    <option name="jreName" value="21" />
     <option name="skipTests" value="true" />
   </component>
   <component name="McpProjectServerCommands">
@@ -51,23 +63,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0092266990672045" />
-      <entry key="MS500" value="1.4686189558816207" />
-      <entry key="S2" value="4.127079057579571" />
-      <entry key="S5" value="8.99790147423559" />
-      <entry key="S10" value="15.266170235478352" />
-      <entry key="S30" value="29.752373758765557" />
-      <entry key="S60" value="39.44161882040108" />
-      <entry key="M2" value="50.456112892653714" />
-      <entry key="M5" value="71.40743671300469" />
-      <entry key="M10" value="89.31552442235628" />
-      <entry key="M15" value="98.25035908462807" />
-      <entry key="M30" value="110.17713139404262" />
-      <entry key="H1" value="122.32930529820993" />
-      <entry key="H2" value="158.04993363165144" />
-      <entry key="H4" value="268.5777676450129" />
-      <entry key="D1" value="743.6274430247322" />
-      <entry key="W1" value="941.65854372054" />
+      <entry key="MS100" value="1.0000000000000002" />
+      <entry key="MS500" value="1.001313334991258" />
+      <entry key="S2" value="1.7621208854017127" />
+      <entry key="S5" value="5.647794738562993" />
+      <entry key="S10" value="12.08290903706337" />
+      <entry key="S30" value="28.055808670275344" />
+      <entry key="S60" value="38.932332355466244" />
+      <entry key="M2" value="50.83381365857843" />
+      <entry key="M5" value="72.48527763807257" />
+      <entry key="M10" value="90.7384944263965" />
+      <entry key="M15" value="99.8271451425616" />
+      <entry key="M30" value="111.93983105059591" />
+      <entry key="H1" value="124.19761050731594" />
+      <entry key="H2" value="159.96498474315027" />
+      <entry key="H4" value="270.505758589242" />
+      <entry key="D1" value="745.5942852149283" />
+      <entry key="W1" value="943.6525469557213" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -76,36 +88,36 @@
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
       <entry key="S30" value="0.0" />
-      <entry key="S60" value="1.8208040213682408E-186" />
-      <entry key="M2" value="1.3493723329879647E-93" />
-      <entry key="M5" value="7.133736596628734E-38" />
-      <entry key="M10" value="2.8110319697622954E-19" />
-      <entry key="M15" value="4.735314927059248E-13" />
-      <entry key="M30" value="8.914150793300577E-7" />
-      <entry key="H1" value="0.0014286585361462773" />
-      <entry key="H2" value="0.0736066861022608" />
-      <entry key="H4" value="0.6211143647743244" />
-      <entry key="D1" value="4.074193061204973" />
-      <entry key="W1" value="5.676028727744864" />
+      <entry key="S60" value="1.707705244275795E-186" />
+      <entry key="M2" value="1.30679256659421E-93" />
+      <entry key="M5" value="7.042826849306136E-38" />
+      <entry key="M10" value="2.793063154140377E-19" />
+      <entry key="M15" value="4.715113826332692E-13" />
+      <entry key="M30" value="8.895116354764435E-7" />
+      <entry key="H1" value="0.001427132409543213" />
+      <entry key="H2" value="0.07356736140211917" />
+      <entry key="H4" value="0.6209484260490319" />
+      <entry key="D1" value="4.074011628790352" />
+      <entry key="W1" value="5.675992617693242" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0878034572371155" />
-      <entry key="MS500" value="0.8100301064849413" />
-      <entry key="S2" value="3.7875374239495545" />
-      <entry key="S5" value="8.820397004225008" />
-      <entry key="S10" value="15.160440671771243" />
-      <entry key="S30" value="29.705789479673644" />
-      <entry key="S60" value="39.41442539621581" />
-      <entry key="M2" value="50.439655370053146" />
-      <entry key="M5" value="71.3979043295339" />
-      <entry key="M10" value="89.30937778064184" />
-      <entry key="M15" value="98.24579746299607" />
-      <entry key="M30" value="110.1745452881218" />
-      <entry key="H1" value="122.32922833212376" />
-      <entry key="H2" value="158.12231420008666" />
-      <entry key="H4" value="269.19746079017057" />
-      <entry key="D1" value="747.7008496283928" />
-      <entry key="W1" value="947.3344288894377" />
+      <entry key="MS100" value="1.25998315444676E-15" />
+      <entry key="MS500" value="0.0018672315482875285" />
+      <entry key="S2" value="0.8789453014522635" />
+      <entry key="S5" value="5.052438831297859" />
+      <entry key="S10" value="11.708418910521216" />
+      <entry key="S30" value="27.90158258210648" />
+      <entry key="S60" value="38.84849152994004" />
+      <entry key="M2" value="50.788266097931235" />
+      <entry key="M5" value="72.46391539687207" />
+      <entry key="M10" value="90.7263933302849" />
+      <entry key="M15" value="99.81860312270923" />
+      <entry key="M30" value="111.93524852082591" />
+      <entry key="H1" value="124.19653214574463" />
+      <entry key="H2" value="160.03682577685058" />
+      <entry key="H4" value="271.12503571125615" />
+      <entry key="D1" value="749.6674686727923" />
+      <entry key="W1" value="949.3283900513155" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -147,39 +159,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cucumber Java.Feature: HomePage.executor": "Run",
-    "Maven.pretix_v1 [test].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "TestNG.Rerun.executor": "Run",
-    "TestNG.TestRunner.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "feature",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Rerun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: HomePage.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pretix_v1 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pretix_v1 [test].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;TestNG.Rerun.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -223,7 +245,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -232,5 +260,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit" />
     <option name="LAST_COMMIT_MESSAGE" value="git commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.ConnectException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

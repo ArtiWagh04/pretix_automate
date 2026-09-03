@@ -1,16 +1,17 @@
 package testRunners;
 
-import io.cucumber.testng.AbstractTestNGCucumberTests;
-import io.cucumber.testng.CucumberOptions;
+import io.cucumber.core.cli.Main;
 
-@CucumberOptions(
-        features = "@target/rerun.txt",
-        glue = "stepDefinitions",
-        plugin = {
-                "pretty",
-                "html:target/rerun-report.html"
+public class Rerun {
+
+        public static void main(String[] args) {
+
+                Main.main(new String[]{
+                        "@target/rerun.txt",
+                        "--glue", "stepDefinitions",
+                        "--plugin", "pretty",
+                        "--plugin", "html:target/rerun-report.html",
+                        "--plugin", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
+                });
         }
-)
-public class Rerun extends AbstractTestNGCucumberTests {
-
 }
