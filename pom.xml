@@ -32,6 +32,7 @@
 
                                   <name>listener</name>
                                   <value>io.qameta.allure.testng.AllureTestNg</value>
+<!--                                  io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm-->
                               </property>
                           </properties>
                       </configuration>
