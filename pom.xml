@@ -3,51 +3,74 @@
   <groupId>pretix_v1</groupId>
   <artifactId>pretix_v1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>
-   <pluginManagement>
-      <plugins>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.14.1</version>
-        </plugin>
-
-          <plugin>
-          <!-- Source: https://mvnrepository.com/artifact/io.qameta.allure/allure-maven -->
-
-              <groupId>io.qameta.allure</groupId>
-              <artifactId>allure-maven</artifactId>
-              <version>2.16.0</version>
-
-
-      </plugin>
-                  <plugin>
-                      <groupId>org.apache.maven.plugins</groupId>
-                      <artifactId>maven-surefire-plugin</artifactId>
-                      <version>3.5.3</version>
-                      <configuration>
-                          <testFailureIgnore>true</testFailureIgnore>
-                          <properties>
-                              <property>
-
-                                  <name>listener</name>
-                                  <value>io.qameta.allure.testng.AllureTestNg</value>
-<!--                                  io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm-->
-                              </property>
-                          </properties>
-                      </configuration>
-                  </plugin>
-
-    <plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-failsafe-plugin</artifactId>
-    <version>3.5.5</version>
-   </plugin>
-
-
-      </plugins>
-    </pluginManagement>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.5.3</version>
+                <configuration>
+                    <testFailureIgnore>false</testFailureIgnore>
+                    <properties>
+                        <property>
+                            <name>listener</name>
+                            <value>io.qameta.allure.testng.AllureTestNg</value>
+                        </property>
+                    </properties>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-failsafe-plugin</artifactId>
+                <version>3.5.5</version>
+            </plugin>
+        </plugins>
     </build>
+<!--  <build>-->
+<!--   <pluginManagement>-->
+<!--      <plugins>-->
+<!--        <plugin>-->
+<!--          <groupId>org.apache.maven.plugins</groupId>-->
+<!--          <artifactId>maven-compiler-plugin</artifactId>-->
+<!--          <version>3.14.1</version>-->
+<!--        </plugin>-->
+
+<!--          <plugin>-->
+<!--          &lt;!&ndash; Source: https://mvnrepository.com/artifact/io.qameta.allure/allure-maven &ndash;&gt;-->
+
+<!--              <groupId>io.qameta.allure</groupId>-->
+<!--              <artifactId>allure-maven</artifactId>-->
+<!--              <version>2.16.0</version>-->
+
+
+<!--      </plugin>-->
+<!--                  <plugin>-->
+<!--                      <groupId>org.apache.maven.plugins</groupId>-->
+<!--                      <artifactId>maven-surefire-plugin</artifactId>-->
+<!--                      <version>3.5.3</version>-->
+<!--                      <configuration>-->
+<!--                          <testFailureIgnore>false</testFailureIgnore>-->
+<!--                          <properties>-->
+<!--                              <property>-->
+
+<!--                                  <name>listener</name>-->
+<!--                                  <value>io.qameta.allure.testng.AllureTestNg</value>-->
+<!--&lt;!&ndash;                                  io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm&ndash;&gt;-->
+<!--                              </property>-->
+<!--                          </properties>-->
+<!--                      </configuration>-->
+<!--                  </plugin>-->
+
+<!--    <plugin>-->
+<!--    <groupId>org.apache.maven.plugins</groupId>-->
+<!--    <artifactId>maven-failsafe-plugin</artifactId>-->
+<!--    <version>3.5.5</version>-->
+<!--   </plugin>-->
+
+
+<!--      </plugins>-->
+<!--    </pluginManagement>-->
+<!--    </build>-->
 
 
 
