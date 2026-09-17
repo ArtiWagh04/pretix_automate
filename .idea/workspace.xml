@@ -8,13 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testRunners/ChromeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testRunners/EdgeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/factory/ChromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/factory/BrowserContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +22,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="262" />
+    <option name="cachedIndexableFilesCount" value="408" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArtiWagh04&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArtiWagh04/pretix_automate.git&quot;,
+    &quot;accountId&quot;: &quot;ae0d5c68-2ec2-4e7a-9961-ce9c5354963b&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/pages/EventManagementPage.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -59,61 +66,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0000061217329055" />
-      <entry key="M10" value="1.0307224010330367" />
-      <entry key="M15" value="1.5331690375816354" />
-      <entry key="M30" value="11.144595334911601" />
-      <entry key="H1" value="52.71428957171827" />
-      <entry key="H2" value="136.76758279790815" />
-      <entry key="H4" value="279.58359407581895" />
-      <entry key="D1" value="860.9063060099663" />
-      <entry key="W1" value="1130.6328689752684" />
+      <entry key="MS100" value="1.8660361830785706" />
+      <entry key="MS500" value="4.540747446970004" />
+      <entry key="S2" value="8.37254111103243" />
+      <entry key="S5" value="11.211213386004381" />
+      <entry key="S10" value="12.815677180365368" />
+      <entry key="S30" value="14.193495959716191" />
+      <entry key="S60" value="14.608656489326508" />
+      <entry key="M2" value="16.28006640952011" />
+      <entry key="M5" value="33.35935711415189" />
+      <entry key="M10" value="57.67737498937193" />
+      <entry key="M15" value="71.52151853613017" />
+      <entry key="M30" value="91.15469381100027" />
+      <entry key="H1" value="119.49016582473655" />
+      <entry key="H2" value="188.19202970417805" />
+      <entry key="H4" value="325.6105414428771" />
+      <entry key="D1" value="937.4677272605063" />
+      <entry key="W1" value="1237.5040535298447" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.903100000682197E-162" />
-      <entry key="S2" value="3.714200997987233E-41" />
-      <entry key="S5" value="6.728932332029091E-17" />
-      <entry key="S10" value="8.203006968197147E-9" />
-      <entry key="S30" value="0.0020167761345500964" />
-      <entry key="S60" value="0.04490853075474744" />
-      <entry key="M2" value="0.21191632960852128" />
-      <entry key="M5" value="0.5376081120374396" />
-      <entry key="M10" value="0.7334546784122304" />
-      <entry key="M15" value="0.8171625300494123" />
-      <entry key="M30" value="0.9792309753603592" />
-      <entry key="H1" value="1.3241208128891648" />
-      <entry key="H2" value="1.8488491714239141" />
-      <entry key="H4" value="2.6197696071277634" />
-      <entry key="D1" value="6.526709311278009" />
-      <entry key="W1" value="8.570666753303676" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.4270955607002573E-115" />
+      <entry key="S5" value="1.4257216691085753E-46" />
+      <entry key="S10" value="1.1940358742971584E-23" />
+      <entry key="S30" value="2.2856292841974807E-8" />
+      <entry key="S60" value="1.5118297801662312E-4" />
+      <entry key="M2" value="0.012295648743223399" />
+      <entry key="M5" value="0.17214925109692245" />
+      <entry key="M10" value="0.41625121109869884" />
+      <entry key="M15" value="0.5685292157270508" />
+      <entry key="M30" value="0.8656958790883651" />
+      <entry key="H1" value="1.3268592353344157" />
+      <entry key="H2" value="2.0228628435692104" />
+      <entry key="H4" value="2.97880701802697" />
+      <entry key="D1" value="7.241161116224771" />
+      <entry key="W1" value="9.516381081907547" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.5321850912266799" />
-      <entry key="MS500" value="0.88148015790717" />
-      <entry key="S2" value="0.9689539448887403" />
-      <entry key="S5" value="0.9874639603843243" />
-      <entry key="S10" value="0.9937122165508128" />
-      <entry key="S30" value="0.999550293328959" />
-      <entry key="S60" value="1.0395772372063554" />
-      <entry key="M2" value="1.2010382830691377" />
-      <entry key="M5" value="1.5267405920041164" />
-      <entry key="M10" value="1.7567616898787075" />
-      <entry key="M15" value="2.344823522183595" />
-      <entry key="M30" value="12.120505528662193" />
-      <entry key="H1" value="54.03598622065917" />
-      <entry key="H2" value="138.6143919095757" />
-      <entry key="H4" value="282.2014904521441" />
-      <entry key="D1" value="867.4320618186053" />
-      <entry key="W1" value="1139.2033573847057" />
+      <entry key="MS100" value="1.696569542694797" />
+      <entry key="MS500" value="4.449907308988332" />
+      <entry key="S2" value="8.259626042710138" />
+      <entry key="S5" value="11.120773727224472" />
+      <entry key="S10" value="12.757423003504318" />
+      <entry key="S30" value="14.170394458345623" />
+      <entry key="S60" value="14.596729740426289" />
+      <entry key="M2" value="16.285918586411658" />
+      <entry key="M5" value="33.52759732792577" />
+      <entry key="M10" value="58.090704203070935" />
+      <entry key="M15" value="72.0876624317538" />
+      <entry key="M30" value="92.01859012796362" />
+      <entry key="H1" value="120.81540580814013" />
+      <entry key="H2" value="190.21327957567945" />
+      <entry key="H4" value="328.58769917541616" />
+      <entry key="D1" value="944.707940144156" />
+      <entry key="W1" value="1247.0202522802806" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -155,45 +162,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ChromeTest.executor": "Run",
-    "Application.Rerun.executor": "Run",
-    "Application.TestRunner.executor": "Run",
-    "Cucumber Java.Feature: HomePage.executor": "Run",
-    "Maven.pretix_v1 [clean].executor": "Run",
-    "Maven.pretix_v1 [test].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "TestNG.C:/Users/Wagh/IdeaProjects/pretix_automate/src/test/resources/testng.xml.executor": "Run",
-    "TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/testng.xml.executor": "Run",
-    "TestNG.Rerun.executor": "Run",
-    "TestNG.TestRunner.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "#1 on feature",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ChromeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rerun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: HomePage.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pretix_v1 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pretix_v1 [test].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Wagh/IdeaProjects/pretix_automate/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Rerun.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on feature&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -204,8 +212,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
       </set>
     </attachedChunks>
   </component>
