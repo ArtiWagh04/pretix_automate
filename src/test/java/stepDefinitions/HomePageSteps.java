@@ -26,8 +26,17 @@ public void user_is_already_logged_in_to_application(DataTable credTable) {
 	
 	List<Map<String, String>> credList = credTable.asMaps();
 	String uname = credList.get(0).get("username");
+
 	String pass = credList.get(0).get("password");
 	DriverFactory.getDriver().get("https://pretix.eu/control/login");
+
+
+	Assert.assertEquals(
+			DriverFactory.getDriver().getCurrentUrl(),
+			"https://pretix.eu/control/login",
+			"Incorrect URL loaded.");
+
+
 	hPage = lp.doLogin(uname, pass);
 	
   
@@ -44,8 +53,8 @@ public void user_is_on_home_page() {
 
 @Then("option title should be {string}")
 public void option_title_should_be(String string) {
-	String get = hPage.getEventOption();
-	Assert.assertEquals(get, string);
+	String eventOption = hPage.getEventOption();
+	Assert.assertEquals(eventOption, string);
   
 }
 
