@@ -21,6 +21,12 @@ pipeline {
             }
         }
 
+        stage('Clean Allure Results') {
+                    steps {
+                        bat 'if exist allure-results rmdir /s /q allure-results'
+                    }
+                }
+
         stage('Run Tests') {
             steps {
                 bat 'mvn clean test'
@@ -28,8 +34,13 @@ pipeline {
         }
     }
 
+
     post {
         always {
+            allure([
+                results: [[path: 'allure-results']]
+            ])
+
             bat '"C:\\Users\\knx-admin-user\\AppData\\Local\\Programs\\DockerDesktop\\resources\\cli-plugins\\docker-compose.exe" down'
         }
     }
