@@ -1,7 +1,9 @@
 pipeline {
 
     agent any
-
+triggers {
+        cron('H 2 * * 1-5')   // around 2 AM, Monday to Friday
+    }
     tools {
         jdk 'JDK-21'
         maven 'Maven-3.9.16'
