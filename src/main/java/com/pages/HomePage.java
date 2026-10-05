@@ -40,6 +40,7 @@ public class HomePage {
 	}
 	
 	public String  getEventOption() {
+
 		return driver.findElement(eventOption).getText();
 	}
 	

@@ -2,8 +2,13 @@ package com.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class LoginPage {
+
+	private static final Logger log =
+			LoggerFactory.getLogger(LoginPage.class);
 	
 	private WebDriver driver;
 	
@@ -26,6 +31,8 @@ public class LoginPage {
 	}
 
 	public void enterEmail(String un) {
+		log.info("Entering username");
+
 		driver.findElement(emailId).sendKeys(un);
 		
 	}
@@ -36,6 +43,7 @@ public class LoginPage {
 	}
 	
 	public void clickLogfin() {
+		log.info("Clicking Login button");
 		driver.findElement(loginBtn).click();
 		
 	}
