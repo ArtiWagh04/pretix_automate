@@ -1,9 +1,11 @@
 pipeline {
 
     agent any
-triggers {
+
+    triggers {
         cron('H 2 * * 1-5')   // around 2 AM, Monday to Friday
     }
+
     tools {
         jdk 'JDK-21'
         maven 'Maven-3.9.6'
@@ -17,17 +19,32 @@ triggers {
             }
         }
 
+        stage('Environment Check') {
+            steps {
+                bat 'java -version'
+                bat 'mvn -version'
+                bat 'docker --version'
+                bat 'docker compose version'
+            }
+        }
+
         stage('Start Selenium Grid') {
             steps {
-                bat '"C:\\Users\\knx-admin-user\\AppData\\Local\\Programs\\DockerDesktop\\resources\\cli-plugins\\docker-compose.exe" up -d'
+                bat 'docker compose up -d'
+            }
+        }
+
+        stage('Check Selenium Grid') {
+            steps {
+                bat 'docker compose ps'
             }
         }
 
         stage('Clean Allure Results') {
-                    steps {
-                        bat 'if exist allure-results rmdir /s /q allure-results'
-                    }
-                }
+            steps {
+                bat 'if exist allure-results rmdir /s /q allure-results'
+            }
+        }
 
         stage('Run Tests') {
             steps {
@@ -36,14 +53,22 @@ triggers {
         }
     }
 
-
     post {
+
         always {
+
             allure([
-                results: [[path: 'allure-results']]
+                results: [
+                    [path: 'allure-results']
+                ]
             ])
 
-            bat '"C:\\Users\\knx-admin-user\\AppData\\Local\\Programs\\DockerDesktop\\resources\\cli-plugins\\docker-compose.exe" down'
+            script {
+                bat(
+                    returnStatus: true,
+                    script: 'docker compose down'
+                )
+            }
         }
     }
 }
