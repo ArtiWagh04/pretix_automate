@@ -7,12 +7,7 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com/AppFeatures/HomePage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com/AppFeatures/HomePage.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com/AppFeatures/loginPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com/AppFeatures/loginPage.feature" afterDir="false" />
-    </list>
+    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,61 +63,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000035196324" />
-      <entry key="S2" value="1.0137570505826536" />
-      <entry key="S5" value="1.2248693732771956" />
-      <entry key="S10" value="2.299307314235922" />
-      <entry key="S30" value="12.197673531528205" />
-      <entry key="S60" value="22.61947828495042" />
-      <entry key="M2" value="31.6709462488798" />
-      <entry key="M5" value="39.355348966551155" />
-      <entry key="M10" value="43.30607280456127" />
-      <entry key="M15" value="48.88201043550818" />
-      <entry key="M30" value="81.19688707769562" />
-      <entry key="H1" value="149.7234975140395" />
-      <entry key="H2" value="255.62153027197385" />
-      <entry key="H4" value="420.1822174185923" />
-      <entry key="D1" value="1093.3416336228415" />
-      <entry key="W1" value="1430.916191922478" />
+      <entry key="MS100" value="1.0000000112149623" />
+      <entry key="MS500" value="1.0257015646472645" />
+      <entry key="S2" value="1.400396148015039" />
+      <entry key="S5" value="1.6934193495688565" />
+      <entry key="S10" value="1.8327180492632884" />
+      <entry key="S30" value="1.9408043700661155" />
+      <entry key="S60" value="1.9699507049670695" />
+      <entry key="M2" value="1.9848607541003296" />
+      <entry key="M5" value="1.993916573747329" />
+      <entry key="M10" value="1.9969536467413338" />
+      <entry key="M15" value="1.9979681256518913" />
+      <entry key="M30" value="2.0018941239958075" />
+      <entry key="H1" value="2.9008793374322623" />
+      <entry key="H2" value="21.939850095457654" />
+      <entry key="H4" value="119.81021012133772" />
+      <entry key="D1" value="890.6653974525179" />
+      <entry key="W1" value="1398.268388899219" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="2.2062279183277465E-188" />
-      <entry key="S30" value="2.8046809110932666E-63" />
-      <entry key="S60" value="5.295923820348311E-32" />
-      <entry key="M2" value="2.3012874267140294E-16" />
-      <entry key="M5" value="5.556392346330698E-7" />
-      <entry key="M10" value="7.478239906252437E-4" />
-      <entry key="M15" value="0.00840198772665444" />
-      <entry key="M30" value="0.10523979124993915" />
-      <entry key="H1" value="0.4626282675019538" />
-      <entry key="H2" value="1.1944558290697338" />
-      <entry key="H4" value="2.288991588966223" />
-      <entry key="D1" value="6.930137456311453" />
-      <entry key="W1" value="9.456883935720906" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="8.29582591252188E-270" />
+      <entry key="S60" value="2.8802475436187557E-135" />
+      <entry key="M2" value="5.36679377619334E-68" />
+      <entry key="M5" value="1.2356235634465066E-27" />
+      <entry key="M10" value="3.5176457286262125E-14" />
+      <entry key="M15" value="1.0817973084180565E-9" />
+      <entry key="M30" value="3.6149272571468484E-5" />
+      <entry key="H1" value="0.00834970366909009" />
+      <entry key="H2" value="0.16564940945692885" />
+      <entry key="H4" value="0.9033569698714417" />
+      <entry key="D1" value="6.393231982968298" />
+      <entry key="W1" value="10.139951856238678" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="5.040254786307243E-7" />
-      <entry key="MS500" value="0.05501622206349527" />
-      <entry key="S2" value="0.49791717498548044" />
-      <entry key="S5" value="0.9717986947489883" />
-      <entry key="S10" value="2.1596432202809273" />
-      <entry key="S30" value="12.138561370206318" />
-      <entry key="S60" value="22.58437601740888" />
-      <entry key="M2" value="31.65051939487878" />
-      <entry key="M5" value="39.345818145442266" />
-      <entry key="M10" value="43.301666267152825" />
-      <entry key="M15" value="48.88674953448844" />
-      <entry key="M30" value="81.2997335041057" />
-      <entry key="H1" value="150.18418639291264" />
-      <entry key="H2" value="256.8142104755554" />
-      <entry key="H4" value="422.4694828685517" />
-      <entry key="D1" value="1100.2707790606642" />
-      <entry key="W1" value="1440.3728823733666" />
+      <entry key="MS100" value="7.148905434638226E-4" />
+      <entry key="MS500" value="0.256703789373306" />
+      <entry key="S2" value="1.080516404802648" />
+      <entry key="S5" value="1.547305170101619" />
+      <entry key="S10" value="1.7560621566950199" />
+      <entry key="S30" value="1.9143873971636862" />
+      <entry key="S60" value="1.9566296438328565" />
+      <entry key="M2" value="1.97817173121701" />
+      <entry key="M5" value="1.9912340811566454" />
+      <entry key="M10" value="1.9956112494053528" />
+      <entry key="M15" value="1.9970729390986084" />
+      <entry key="M30" value="2.001482404481289" />
+      <entry key="H1" value="2.908988039258378" />
+      <entry key="H2" value="22.105213433006416" />
+      <entry key="H4" value="120.7129639637826" />
+      <entry key="D1" value="897.0577845333595" />
+      <entry key="W1" value="1408.408145644672" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -164,46 +159,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ChromeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rerun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: HomePage.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.pretix_v1 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.pretix_v1 [test].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/Wagh/IdeaProjects/pretix_automate/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Rerun.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#1 on feature&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChromeTest.executor": "Run",
+    "Application.Rerun.executor": "Run",
+    "Application.TestRunner.executor": "Run",
+    "Cucumber Java.Feature: HomePage.executor": "Run",
+    "Maven.pretix_v1 [clean].executor": "Run",
+    "Maven.pretix_v1 [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.C:/Users/Wagh/IdeaProjects/pretix_automate/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/testng.xml.executor": "Run",
+    "TestNG.Rerun.executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "feature",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
