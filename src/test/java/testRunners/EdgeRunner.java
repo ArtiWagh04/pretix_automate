@@ -13,7 +13,8 @@ import org.testng.annotations.BeforeClass;
         },
         plugin = {
                 "pretty",
-                "html:target/cucumber-report-edge.html"
+                "html:target/cucumber-report-edge.html",
+                "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         },
         monochrome = true
 )
