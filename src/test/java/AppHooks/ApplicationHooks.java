@@ -49,22 +49,21 @@ public class ApplicationHooks {
 
 		if (scenario.isFailed()) {
 
-			String ssName = scenario.getName()
-					.replaceAll(" ", "_");
 
-			byte[] sourcePath =
+
+			byte[] screenshot =
 					((TakesScreenshot) driver)
 							.getScreenshotAs(OutputType.BYTES);
 
 			scenario.attach(
-					sourcePath,
+					screenshot,
 					"image/png",
-					ssName
+					"Failed Scenario Screenshot"
 			);
 		}
 	}
 
-	@After(order = 0)
+	@After(order = 2)
 	public void quitBrowser() {
 
 		if (driver != null) {

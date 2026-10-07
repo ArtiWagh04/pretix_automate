@@ -7,7 +7,10 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit" />
+    <list default="true" id="0279b34c-7864-493f-914e-813a4a8d675c" name="Changes" comment="git commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="184" />
+    <option name="cachedIndexableFilesCount" value="328" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,23 +66,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7846358491063563" />
-      <entry key="MS500" value="3.634644376091787" />
-      <entry key="S2" value="6.451514905580073" />
-      <entry key="S5" value="12.856934476193564" />
-      <entry key="S10" value="21.422247462398715" />
-      <entry key="S30" value="35.781029604149445" />
-      <entry key="S60" value="45.06096937066694" />
-      <entry key="M2" value="62.44332454675825" />
-      <entry key="M5" value="102.08317294083643" />
-      <entry key="M10" value="137.88014318544245" />
-      <entry key="M15" value="157.97360034539048" />
-      <entry key="M30" value="186.06190772990644" />
-      <entry key="H1" value="205.10934819333707" />
-      <entry key="H2" value="231.46923237158273" />
-      <entry key="H4" value="327.40931119238587" />
-      <entry key="D1" value="1099.7677168681212" />
-      <entry key="W1" value="1619.75953103463" />
+      <entry key="MS100" value="1.7500335584545699" />
+      <entry key="MS500" value="3.2173545749455865" />
+      <entry key="S2" value="7.095548329281634" />
+      <entry key="S5" value="15.424127456614205" />
+      <entry key="S10" value="24.205694589497238" />
+      <entry key="S30" value="43.60761268866865" />
+      <entry key="S60" value="63.177021398826604" />
+      <entry key="M2" value="89.794153910683" />
+      <entry key="M5" value="139.10368663653708" />
+      <entry key="M10" value="181.33418776167474" />
+      <entry key="M15" value="204.62472972479597" />
+      <entry key="M30" value="236.9692580753846" />
+      <entry key="H1" value="258.7527975925216" />
+      <entry key="H2" value="286.5848922611664" />
+      <entry key="H4" value="383.1010106514457" />
+      <entry key="D1" value="1156.0596481280943" />
+      <entry key="W1" value="1676.6112414671707" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -87,37 +90,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="6.58846453350595E-291" />
-      <entry key="S60" value="8.116935710910778E-146" />
-      <entry key="M2" value="2.849023641690388E-73" />
-      <entry key="M5" value="9.591325724023379E-30" />
-      <entry key="M10" value="3.0991908952307276E-15" />
-      <entry key="M15" value="2.1419535536382633E-10" />
-      <entry key="M30" value="1.608539161962543E-5" />
-      <entry key="H1" value="0.0055697679377596405" />
-      <entry key="H2" value="0.13529224738368806" />
-      <entry key="H4" value="0.8163960772151971" />
-      <entry key="D1" value="6.286284734845887" />
-      <entry key="W1" value="10.115544437545356" />
+      <entry key="S30" value="1.060571789140043E-291" />
+      <entry key="S60" value="3.2566421190238663E-146" />
+      <entry key="M2" value="1.8046168898200698E-73" />
+      <entry key="M5" value="7.990136999841516E-30" />
+      <entry key="M10" value="2.828694984587861E-15" />
+      <entry key="M15" value="2.0154339868519503E-10" />
+      <entry key="M30" value="1.5603100403981027E-5" />
+      <entry key="H1" value="0.005485632797079837" />
+      <entry key="H2" value="0.13426651825806557" />
+      <entry key="H4" value="0.8132954025556757" />
+      <entry key="D1" value="6.282299201804775" />
+      <entry key="W1" value="10.114628002638606" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5438731574336337" />
-      <entry key="MS500" value="3.4299346362589147" />
-      <entry key="S2" value="6.36329494022667" />
-      <entry key="S5" value="12.796399885700193" />
-      <entry key="S10" value="21.37268705446214" />
-      <entry key="S30" value="35.751234187179215" />
-      <entry key="S60" value="45.04100760712229" />
-      <entry key="M2" value="62.42832372377694" />
-      <entry key="M5" value="102.07250558822432" />
-      <entry key="M10" value="137.8726244691981" />
-      <entry key="M15" value="157.96772093763084" />
-      <entry key="M30" value="186.05834116354154" />
-      <entry key="H1" value="205.11289209919104" />
-      <entry key="H2" value="231.60330847493148" />
-      <entry key="H4" value="328.2246575186639" />
-      <entry key="D1" value="1106.0530847680266" />
-      <entry key="W1" value="1629.8748684868137" />
+      <entry key="MS100" value="1.448266540196381" />
+      <entry key="MS500" value="3.052534962021397" />
+      <entry key="S2" value="6.999659807276674" />
+      <entry key="S5" value="15.34482345517593" />
+      <entry key="S10" value="24.14072916479077" />
+      <entry key="S30" value="43.56261721080694" />
+      <entry key="S60" value="63.141919297766385" />
+      <entry key="M2" value="89.76825417404012" />
+      <entry key="M5" value="139.08733064706126" />
+      <entry key="M10" value="181.3234148200411" />
+      <entry key="M15" value="204.6165495741004" />
+      <entry key="M30" value="236.96445338227196" />
+      <entry key="H1" value="258.7556100697352" />
+      <entry key="H2" value="286.7176115542093" />
+      <entry key="H4" value="383.9130897992436" />
+      <entry key="D1" value="1162.3410026137406" />
+      <entry key="W1" value="1686.7256584359677" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -159,46 +162,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ChromeTest.executor": "Run",
-    "Application.Rerun.executor": "Run",
-    "Application.TestRunner.executor": "Run",
-    "Cucumber Java.Feature: HomePage.executor": "Run",
-    "Maven.pretix_v1 [clean].executor": "Run",
-    "Maven.pretix_v1 [test].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "TestNG.C:/Users/Wagh/IdeaProjects/pretix_automate/src/test/resources/testng.xml.executor": "Run",
-    "TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/src/test/resources/testng.xml.executor": "Run",
-    "TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/testng.xml.executor": "Run",
-    "TestNG.Rerun.executor": "Run",
-    "TestNG.TestRunner.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "feature",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ChromeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rerun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: HomePage.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pretix_v1 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pretix_v1 [test].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Wagh/IdeaProjects/pretix_automate/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Rerun.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/knx-admin-user/eclipse-workspace/pretix_automate/pretix_automate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -209,8 +212,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
       </set>
     </attachedChunks>
   </component>
